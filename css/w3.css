@@ -986,13 +986,7 @@ a {
     -ms-transform: translate(0%, -50%)
 }
 
-.w3-display-topmiddle {
-    position: absolute;
-    left: 50%;
-    top: 0;
-    transform: translate(-50%, 0%);
-    -ms-transform: translate(-50%, 0%)
-}
+
 
 .w3-display-bottommiddle {
     position: absolute;

@@ -8,9 +8,31 @@ body, html {
   background-position: center;
   background-size: cover;
   background-image: url("/w3images/coffeehouse.jpg");
-  min-height: 75%;
+  min-height: 50%;
 }
 
 .menu {
   display: none;
+}
+
+.important {
+    font-size: 62;
+    color: #8ed9df;
+    font-weight: bolder;
+    margin: 10px 250px 0 250px;
+    line-height: 55px;
+    background-color:black;
+    padding:5px 0px 15px 10px;
+}
+
+.tab {
+    background-color: #000;
+}
+
+.w3-display-topmiddle {
+    position: absolute;
+    left: 50%;
+    top: 50px;
+    transform: translate(-50%, 0%);
+    -ms-transform: translate(-50%, 0%)
 }
