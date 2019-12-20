@@ -15,14 +15,53 @@ body, html {
   display: none;
 }
 
+.centerThing {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .important {
-    font-size: 62;
-    color: #8ed9df;
+    font-size: 20;
     font-weight: bolder;
-    margin: 10px 250px 0 250px;
-    line-height: 55px;
-    background-color:black;
+    text-align: center;
+    margin: 10px auto 0 auto;
+    line-height: 36px;
     padding:5px 0px 15px 10px;
+}
+
+.bigFont {
+    font-size: 42;
+    font-weight: bolder;
+    text-align: center;
+    margin: 10px auto 0 auto;
+    line-height: 55px;
+    padding: 5px 0px 15px 0px;
+}
+
+.viridian {
+    color: #98C9D1;
+}
+
+.violet {
+    color: #FA77E7;
+}
+
+.vitellary {
+    color: #D2C356;
+}
+
+.vermillion {
+    color: #FF4848;
+}
+
+.verdigris {
+    color: #4CE071;
+}
+
+.victoria {
+    color: #4C4EE0;
 }
 
 .tab {
